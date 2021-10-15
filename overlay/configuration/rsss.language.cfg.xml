@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameterStore>
+	<key name="COMMON">
+		<key name="function1">
+            <data name="ger" value="Sicherungsdiskette"/>
+            <data name="eng" value="Backup Disk"/>
+		</key>
+	</key>
+</parameterStore>
